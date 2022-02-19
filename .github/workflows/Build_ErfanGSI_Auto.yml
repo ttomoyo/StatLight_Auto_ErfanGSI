@@ -13,8 +13,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2020_A_1.5.23-update-full_1600140292.zip
-  ROM_NAME: MIUI For Android 10
+  ROM_URL: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0470_all_gROvoIXPabkc.ozip
+  ROM_NAME: ColorOS For Android 11
   TZ: Asia/Shanghai
 
 jobs:
