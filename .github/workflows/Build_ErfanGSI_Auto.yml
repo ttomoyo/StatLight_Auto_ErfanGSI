@@ -13,8 +13,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://h9m6fssg.v1d.szbdyd.com:9305/download.meizu.com/Firmware/Flyme/note9/8.20.11.24/cn_daily/20201124032439/ca778fc3/update.zip
-  ROM_NAME: Flyme For Android 10
+  ROM_URL: https://download.c.realme.com/osupdate/RMX2040_11_OTA_0470_all_gROvoIXPabkc.ozip
+  ROM_NAME: ColorOS For Android 11
   TZ: Asia/Shanghai
 
 jobs:
